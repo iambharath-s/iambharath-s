@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563EB&height=180&section=header&text=Venkat%20Bharath&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Cloud%20Security%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563EB&height=180&section=header&text=Bharath%20S&fontSize=48&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Cloud+Security+Engineer+in+the+Making+%F0%9F%94%90;CEH+v13+%E2%86%92+AWS+Security+%E2%86%92+AZ-500+%E2%86%92+CCSP;Sharing+Notes+%26+Projects+as+I+Learn;Started+CEH+Prep+%E2%80%94+June+2026" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<br/>
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-Profile-black?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/iamvenkatbharath)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/saripudi.venkatbharath)
@@ -22,9 +18,9 @@
 ## 👋 Who I Am
 
 ```python
-class VenkatBharath:
+class BharathS:
     name      = "Bharath S"
-    college   = "SRM IST | B.Tech CSE | 2027"
+    college   = "SRM IST | B.Tech CSE"
     focus     = "Cloud Security Engineering"
 
     currently = [
@@ -38,29 +34,13 @@ class VenkatBharath:
 
 ---
 
-## 🎯 12-Month Cert Roadmap (2026)
+## 🛠️ What I Build & Share
 
-> Starting from ground zero and going all the way — one cert at a time.
-
-| # | Certification | Timeline |
-|:---:|:---|:---:|
-| 1 | ⚡ **CEH v13** — Certified Ethical Hacker | Jun – Aug 2026 |
-| 2 | ☁️ **AWS Cloud Practitioner** (CLF-C02) | Aug – Oct 2026 |
-| 3 | 🏆 **AWS Security Specialty** (SCS-C02) | Oct – Dec 2026 |
-| 4 | 🔷 **AZ-500** — Azure Security Engineer Associate | Dec 2026 – Jan 2027 |
-| 5 | 🌐 **CCSP** — ISC2 Cloud Security Professional | 2027 |
-
----
-
-## 📌 What I Post Here
-
-This profile is my **public learning journal**. Expect:
-
-- 📝 **CEH v13 Notes** — Weekly study notes as I prep (starting June 2026)
-- ☁️ **Cloud Security Projects** — Hands-on labs and tools as I learn AWS & Azure
-- 🔐 **Security Scripts & Mini-Tools** — Things I build while studying
-
-> *I share what I learn — raw, honest, and in progress.*
+| | |
+|:---|:---|
+| ⚙️ **Custom Tools** | Recon scripts, port scanners, fuzzing automation built from scratch |
+| 💥 **Exploits & PoCs** | CVE reproductions, CTF writeups, and vulnerability proof-of-concepts |
+| ☁️ **Cloud Security Projects** | AWS/Azure misconfig labs, IAM auditing, and cloud hardening scripts |
 
 ---
 
@@ -68,12 +48,6 @@ This profile is my **public learning journal**. Expect:
 
 <div align="center">
 
-<!-- Streak stats — hosted by demolab, very reliable -->
-<img src="https://streak-stats.demolab.com?user=iambharath-s&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Activity graph — separate reliable service -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iambharath-s&theme=react-dark&hide_border=true&area=true&color=2563EB&line=2563EB&point=ffffff" alt="Contribution Graph" width="100%"/>
 
 </div>
