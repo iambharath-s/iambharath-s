@@ -18,18 +18,16 @@
 ## 👋 Who I Am
 
 ```python
-class BharathS:
+class Bharath:
     name      = "Bharath S"
-    college   = "SRM IST | B.Tech CSE"
     focus     = "Cloud Security Engineering"
 
     currently = [
         "Building a foundation in ethical hacking & cloud security",
-        "CEH v13 prep started — June 2026 🚀",
         "Documenting everything I learn, publicly"
     ]
 
-    platforms = ["HackerOne", "TryHackMe", "HackTheBox"]
+    platforms = ["TryHackMe", "HackTheBox"]
 ```
 
 ---
