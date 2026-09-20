@@ -4,7 +4,6 @@
 
 <br/>
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-black?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/iamvenkatbharath)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/saripudi.venkatbharath)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e01bb-9f24-737d-acb2-8909b9637366)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-bharath/)
